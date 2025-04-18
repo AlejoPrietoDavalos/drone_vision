@@ -1,1 +1,5 @@
 kagglehub>=0.3.11
+pillow>=11.2.1
+polars>=1.27.1
+numpy>=2.2.4
+matplotlib>=3.10.1
